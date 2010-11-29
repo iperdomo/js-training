@@ -8,6 +8,7 @@
 # Agenda #
 
 * Repaso de la sesión anterior
+* JSON
 * JSLint
 * SmartClient RIA
 
