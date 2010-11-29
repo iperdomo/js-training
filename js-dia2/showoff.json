@@ -1,0 +1,10 @@
+{ "name": "Introducción a JavaScript",
+  "description": "Iván Perdomo",
+  "sections": [ 
+	  {"section":"00_intro"},
+	  {"section":"01_repaso"},
+	  {"section":"02_json"},
+	  {"section":"03_jslint"},
+	  {"section":"04_smartclient"}
+	]
+}
