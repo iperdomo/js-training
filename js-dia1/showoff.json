@@ -1,0 +1,7 @@
+{ "name": "Introducción a JavaScript",
+  "description": "Iván Perdomo",
+  "sections": [ 
+	  {"section":"0_intro"},
+	  {"section":"1_language"} 
+	]
+}
