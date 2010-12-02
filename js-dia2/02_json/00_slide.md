@@ -4,11 +4,13 @@
 
 !SLIDE bullets incremental transition=scrollUp
 
+# JSON #
+
 * Es un formato de intercambio de información
 * Sencillo de leer
 * RFC 4627 application/json
 
-!SLIDE bulllets incremental
+!SLIDE bulllets incremental transition=scrollUp
 
 # JSON object #
 
